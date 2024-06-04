@@ -22,9 +22,9 @@ gh auth login
 #### 1. Create your own repository with a filled file(s).
   - Push your repository to GitHub.
 
-- Go to GitHub, click on the + icon, and select New repository.
-- Fill in the repository details (name, description, public/private).
-- Click Create repository.
+1.1 Go to GitHub, click on the + icon, and select New repository.
+1.2 Fill in the repository details (name, description, public/private).
+1.3 Click Create repository.
     
 
 

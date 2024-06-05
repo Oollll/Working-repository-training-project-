@@ -76,6 +76,6 @@ gh pr create --base master --head work --title "work -> master" --body "I've mad
 #### 4. Back repository to someone's old commit.
 ```
 git log 
-git reset --hard ce6b5c38d33e94f969016ea92890a814148bf85f
+git reset --hard "hashcommit"
 git push origin main
 ```

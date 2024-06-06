@@ -38,23 +38,8 @@ docker-compose up
 
 ```
 docker-compose up
--------------------
-[+] Running 2/0
- ✔ Container sqlite_db   Created    
- ✔ Container django_app  Created      
-Attaching to django_app, sqlite_db
-sqlite_db exited with code 0
-django_app  | Watching for file changes with StatReloader
-django_app  | Performing system checks...
-django_app  | 
-django_app  | System check identified no issues (0 silenced).
-django_app  | June 05, 2024 - 22:45:51
-django_app  | Django version 5.0.6, using settings 'myproject.settings'
-django_app  | Starting development server at http://0.0.0.0:8000/
-django_app  | Quit the server with CONTROL-C.
-django_app  | 
-
 ```
+- The file was uploaded to the repository 
 
 
 
